@@ -25,6 +25,7 @@ Le service est développé avec *Jakarta XML Web Services (JAX-WS)*, géré par 
 ![pom.xml](image/l.png)
 
 
+
 ### Activités 2 et 3 : Interface, classe métier et annotations
 
 **Interface ICalculatrice**
@@ -69,7 +70,7 @@ voici url : http://localhost:8080/CalculatriceWS?wsdl
 ![Somme](image/e.png)
 **Opération soustraction**
 
-![Soustraction](docs/captures/13_soapui_soustraction.png)
+![Soustraction](image/bb.jpg)
 
 **Opération multiplication**
 
@@ -77,7 +78,7 @@ voici url : http://localhost:8080/CalculatriceWS?wsdl
 
 **Opération division**
 
-![Division](docs/captures/15_soapui_division.png)
+![Division](image/aa.jpg)
 
 
 
@@ -85,4 +86,4 @@ voici url : http://localhost:8080/CalculatriceWS?wsdl
 
 ## 12. Auteur
 
-*islem henteti* – LSI3-GLSI – Faculté des Sciences de Sfax – 2025-2026    
+*islem henteti* – LSI3-GLSI – Faculté des Sciences de Sfax – 2026-2027  
